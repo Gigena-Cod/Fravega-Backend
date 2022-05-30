@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.4",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.16",
+    "tiny": "^0.0.10"
+  },
+  "name": "fravega-backend",
+  "version": "1.0.0",
+  "description": "Backend de portfolio de Fravega",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "author": "Gigena,Christian",
+  "license": "ISC"
+}
